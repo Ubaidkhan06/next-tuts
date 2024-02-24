@@ -9,6 +9,7 @@ const users = [
   },
 ];
 
+
 const customers = [
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
@@ -71,6 +72,7 @@ const customers = [
     image_url: '/customers/balazs-orban.png',
   },
 ];
+
 
 const invoices = [
   {
@@ -165,6 +167,7 @@ const invoices = [
   },
 ];
 
+
 const revenue = [
   { month: 'Jan', revenue: 2000 },
   { month: 'Feb', revenue: 1800 },
@@ -179,6 +182,7 @@ const revenue = [
   { month: 'Nov', revenue: 3000 },
   { month: 'Dec', revenue: 4800 },
 ];
+
 
 module.exports = {
   users,
