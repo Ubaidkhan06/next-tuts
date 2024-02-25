@@ -5,6 +5,8 @@ export const metadata: Metadata = {
 };
 
 const Page = () => {
+  // console.log(ubaid)
+  console.log(!231);
   return <div>Customers</div>;
 };
 
